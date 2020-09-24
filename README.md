@@ -1,6 +1,4 @@
-# Projet Partage de recette Web Odin, Djens, Mouss
-
-Projet Technologies du Web dans le cadre de la formation BCD réalisé par Gaoussou Sanou, Djenaba Barry, Moussa SAMB.
+# Projet Partage de recette Web 
 
 ## INSTALL 
 
