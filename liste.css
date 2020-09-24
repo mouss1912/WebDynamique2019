@@ -1,0 +1,22 @@
+#recette {
+	max-width: 1000px;
+	border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+#img_cont {
+	width: 800px;
+}
+
+#img_cont img {
+	max-height: 100%;
+	max-width: 100%;
+}
+
+.content {
+	text-align: center; 
+}
+
+.centerwrapper {
+   margin: auto;
+   width: 800px;
+}
